@@ -9,6 +9,7 @@ body {
     font-family: Roboto;
     color:#22223B;
 }
+/*-----------------------------------------------------------------------Header*/
 
 h1 {
     font-family: Montserrat;
@@ -17,17 +18,19 @@ h1 {
     color:#0D0D0D
 }
 
+
 #logo { 
     float:left;
     font-size: 280%;
-    line-height: 150px;
+    line-height: 75px;
   }
+
 
   #menu {
       font-size: 120%;
       list-style-type: none;
       letter-spacing: 1px;
-      line-height: 300px;
+      line-height: 150px;
       
   }
 
@@ -52,3 +55,27 @@ h1 {
     border-bottom: 2px #22223B solid;
 
   }
+
+  /*-----------------------------------------------Image section*/
+  #yoga-images {
+      height: 300px;
+      
+  }
+ 
+  .column_1{
+    float:left;
+    width:33%;
+    padding: 1px;
+      }
+
+  .column_2{
+    float:left;
+    width:33%;
+    padding: 1px;
+      }
+    
+  .column_3{
+    float:left;
+    width:33%;
+    padding: 1px;
+      }

@@ -28,7 +28,9 @@ h1 {
 
 
   #menu {
+      font-family: Montserrat;
       font-size: 120%;
+      font-weight: bold;
       list-style-type: none;
       letter-spacing: 1px;
       line-height: 200px;

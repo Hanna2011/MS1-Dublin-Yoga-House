@@ -67,6 +67,26 @@ ___
 
 [Back to contents](#contents)
 
+### **Design Choices**
+
+### **Fonts**
+
+- I have chosen Monserrat for the headings and menu as it is easy to read and has good contrast to the main body font
+  which is Roboto. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

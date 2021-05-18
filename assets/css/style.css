@@ -19,11 +19,12 @@ h1 {
 }
 
 
-#logo { 
+.header { 
     float:left;
     font-size: 280%;
     line-height: 75px;
     margin-top: 10px;
+    color: aquamarine;
   }
 
 

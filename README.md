@@ -14,8 +14,7 @@ ____
   - [**Wireframes**](#wireframes)
 - [**Technologies**](#technologies)
   - [**Languages**](#languages)
-  - [**Libraries**](#libraries)
-  - [**Tools**](#tools)
+  - [**Libraries and Tools**](#libraries-and-tools)
 - [**Features**](#features)
   - [**Features Implemented**](#features-implemented)
   - [**Future Features**](#future-features)
@@ -68,6 +67,7 @@ ___
 [Back to contents](#contents)
 
 ### **Design Choices**
+-----
 
 ### **Fonts**
 
@@ -87,3 +87,32 @@ The wireframes were created using [Balsamiq](https://balsamiq.com/). The links a
 - [Phone View](https://github.com/Hanna2011/MS1-Dublin-Yoga-House/blob/master/assets/wireframes/Phone%20All%20Pages.png)
 
 [Back to contents](#contents)
+
+## **Technologies**
+-----
+
+- [**Languages**](#languages)
+   - [HTML](https://en.wikipedia.org/wiki/HTML)
+   - [CSS](https://en.wikipedia.org/wiki/CSS)
+
+- [**Libraries and Tools**](#libraries-and-tools)
+
+    - [Balsamiq](https://balsamiq.com/) Used to create wireframes.
+    - [Bootstrap](https://getbootstrap.com/) Used to design a mobile-first responsive website layout along with custom components. 
+    - [Coolors](https://coolors.co/)
+  Used to search for adequate colour scheme which could be used in my website.
+    - [Font-Awesome](https://fontawesome.com/icons?d=gallery)
+  Used to make headings more atractive and to stand out.
+    - [Google fonts](https://fonts.google.com/)
+  Used to choose the fonts. 
+    - [Git](https://git-scm.com/)
+  Git was used for version control (add . to Git commit to Git and push to GitHub).
+    - [GitHub](https://github.com/)
+  Used to store, host and deploy the project files and source code after being pushed from Git.
+    - [Gitpod](https://www.gitpod.io/)
+  An online IDE linked to the GitHub repository used to write the code.
+
+
+[Back to contents](#contents)
+
+

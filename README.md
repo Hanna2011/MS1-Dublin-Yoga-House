@@ -116,3 +116,30 @@ The wireframes were created using [Balsamiq](https://balsamiq.com/). The links a
 [Back to contents](#contents)
 
 
+- [**Features**](#features)
+  - [**Features Implemented**](#features-implemented)
+  - [**Future Features**](#future-features)
+  - [**Responsive Design**](#responsive-design)
+- [**Version Control**](#version-control)
+- [**Testing**](#testing)
+  - [**Functionality Testing**](#functionality-testing)
+  - [**User Story Testing**](#user-story-testing)
+  - [**Performance Testing**](#performance-testing)
+  - [**Responsive**](#responsive)
+  - [**W3C Validator**](#w3c-validator)
+- [**Bugs**](#bugs)
+- [**Deployment**](#deployment)
+  - [**Running Locally**](#running-locally)
+- [**Credits**](#credits)
+  - [**Code**](#code)
+  - [**Content**](#content)
+  - [**Images**](#images)
+
+    - #index.html
+        - [yoga-streching.jpeg](assets/images/yoga-stretching.jpeg) was sourced from [Pexels](https://www.pexels.com/photo/woman-in-blue-tank-top-and-blue-leggings-doing-yoga-3823117/)
+        - [yoga-picture.jpeg](assets/images/yoga-picture.jpeg) was sourced from [Pexels](https://www.pexels.com/photo/photo-of-woman-posing-during-golden-hour-3326362/)
+        - [yoga-stones.jpeg](assets/images/yoga-stones.jpeg) was sourced from [Pexels](https://www.pexels.com/photo/balancing-rock-formation-816377/)
+  - [**Videos**](#videos)
+  - [**Inspiration**](#inspiration)
+  - [**Acknowledgements**](#acknowledgements)
+  

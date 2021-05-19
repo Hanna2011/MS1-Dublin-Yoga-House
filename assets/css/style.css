@@ -11,7 +11,7 @@ body {
 }
 /*-----------------------------------------------------------------------Header*/
 
-h1 {
+.navbar-brand {
     font-family: Montserrat;
     font-style: oblique;
     letter-spacing: 1px;
